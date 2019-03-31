@@ -4,7 +4,7 @@ Project for my `Building & Deploying your first Progressive Web App` article. <
 
 Read article [here]()
 
-![](https://res.cloudinary.com/iambeejayayo/image/upload/v1554065194/wc-app.png)
+![](https://res.cloudinary.com/iambeejayayo/image/upload/v1554075029/article-art.png)
 
 # Setup
 ```bash
