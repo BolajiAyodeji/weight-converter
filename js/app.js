@@ -16,6 +16,8 @@ input.addEventListener('input', (e) => {
 
   let ounces = document.getElementById('ozOutput');
   ounces.innerHTML = lbs*16;
+
+  e.preventDefault();
 });
 
 
