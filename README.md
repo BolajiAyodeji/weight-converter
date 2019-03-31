@@ -3,3 +3,5 @@
 Project for my `Build your first Progressive Web App (A weight converter app)` article. <br>
 
 Read article [here]()
+
+![](https://res.cloudinary.com/iambeejayayo/image/upload/v1554065194/wc-app.png)
