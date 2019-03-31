@@ -3,7 +3,7 @@ const output = document.getElementById('output');
 
 output.style.visibility = 'hidden';
 
-input.addEventListener('input', function(e) {
+input.addEventListener('input', (e) => {
   let lbs = e.target.value;
 
   output.style.visibility = 'visible';
