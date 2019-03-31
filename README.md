@@ -1,3 +1,4 @@
 # Weight Converter
-Simple weight converter built with JavaScript and Bootstrap 4. :octocat: <br>
-Demo [here](https://bolajiayodeji.github.io/weight-converter)
+Starter project for my Build your first Progressive Web App (A weight converter app).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78f8a231-9dd8-45cc-a1b8-ebc86a48dcaf/deploy-status)](https://app.netlify.com/sites/bolaji-wc/deploys)
