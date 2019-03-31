@@ -10,8 +10,12 @@ Read article [here]()
 ```bash
 git clone https://github.com/BolajiAyodeji/weight-converter.git
 ```
-```
+```bash
 cd weight-converter
 ```
+```
+http://127.0.0.1:5500/
+```
+
 
 *Ensure you use a live server ([Web server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en), or [VSCode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)*
