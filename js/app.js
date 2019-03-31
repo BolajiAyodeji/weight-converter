@@ -17,3 +17,12 @@ input.addEventListener('input', (e) => {
   let ounces = document.getElementById('ozOutput');
   ounces.innerHTML = lbs*16;
 });
+
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('../sw.js').then( () => {
+      console.log('Service Worker Registered')
+    })
+  })
+}
