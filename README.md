@@ -2,7 +2,7 @@
 
 Project for my `Building & Deploying your first Progressive Web App` article. <br>
 
-Read article [here]()
+Read article [here](https://bolajiayodeji.com/building-and-deploying-your-first-progressive-web-app/)
 
 ![](https://res.cloudinary.com/iambeejayayo/image/upload/v1554075029/article-art.png)
 
